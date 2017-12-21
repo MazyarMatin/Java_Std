@@ -1,4 +1,7 @@
-
+/**
+ * @author Mazyar Matin
+ *
+ */
 
 public class Aufgabe2 {
 

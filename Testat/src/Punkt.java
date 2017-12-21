@@ -1,4 +1,7 @@
-
+/**
+ * @author Mazyar Matin
+ *
+ */
 public  class Punkt {
 
 	private static int x;
