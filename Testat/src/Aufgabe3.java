@@ -25,10 +25,6 @@ public class Aufgabe3 {
 			
 		}
 
-		
-			
-		
-		
 		return zahlenreieh;
 				
 	}
